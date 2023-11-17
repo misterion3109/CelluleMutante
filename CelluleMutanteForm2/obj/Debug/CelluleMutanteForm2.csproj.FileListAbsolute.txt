@@ -1,0 +1,10 @@
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\bin\Debug\CelluleMutanteForm2.exe.config
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\bin\Debug\CelluleMutanteForm2.exe
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\bin\Debug\CelluleMutanteForm2.pdb
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\obj\Debug\CelluleMutanteForm2.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\obj\Debug\CelluleMutanteForm2.Form1.resources
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\obj\Debug\CelluleMutanteForm2.Properties.Resources.resources
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\obj\Debug\CelluleMutanteForm2.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\obj\Debug\CelluleMutanteForm2.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\obj\Debug\CelluleMutanteForm2.exe
+C:\Users\manue\source\repos\CelluleMutanteForm2\CelluleMutanteForm2\obj\Debug\CelluleMutanteForm2.pdb
